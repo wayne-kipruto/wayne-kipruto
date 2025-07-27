@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wayne-kipruto
-- 👀 I’m pasionate about any Frontend projects that include both web and mobile apps,
+- 👀 I’m passionate about any Frontend projects that include both web and mobile apps,
 - 🌱 I’m currently learning React and Flutter, 
 - 💞️ I’m looking to collaborate on any project around UI/UX Design. 
 - 📫 Reach me through the email : kiprutowayne365@gmail.com
